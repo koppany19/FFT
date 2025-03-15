@@ -1,0 +1,9 @@
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/QuitButtonProject.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/QuitButtonProject_autogen_timestamp_deps.dir
+M:/DZSUNIVERSZITII/FFT/lab2/labor-02-koppany19/QuitButtonProject/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/CMakeFiles/QuitButtonProject_autogen.dir
